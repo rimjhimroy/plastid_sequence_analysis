@@ -1,2 +1,1 @@
-# plastid_sequence_analysis
-Analysis of plastid sequence
+# Analysis of plastid sequence
